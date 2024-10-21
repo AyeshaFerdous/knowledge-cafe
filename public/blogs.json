@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "cover": "https://i.ibb.co.com/FKSs72q/bharat-patil-Vl6n-LPF67rg-unsplash.jpg",
+      "title": "The Pragmatic Programmer: Your Journey to Mastery",
+      "author": "Andy Hunt",
+      "author_img": "https://i.ibb.co.com/LNnqHGJ/young-teacher-trying-write-notes-class.jpg",
+      "posted_date": "2024-10-10",
+      "reading_time": 12,
+      "hashtags": ["#Programming", "#Software", "#Craftsmanship"]
+    },
+    {
+      "id": 2,
+      "cover": "https://i.ibb.co.com/3rWY1J3/caspar-camille-rubin-f-Pkv-U7-RDm-Co-unsplash.jpg",
+      "title": "Eloquent JavaScript: A Modern Introduction to Programming",
+      "author": "Marijn Haverbeke",
+      "author_img": "https://i.ibb.co.com/LNnqHGJ/young-teacher-trying-write-notes-class.jpg",
+      "posted_date": "2024-09-25",
+      "reading_time": 18,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"]
+    },
+    {
+      "id": 3,
+      "cover": "https://i.ibb.co.com/Pc7MKj6/abu-saeid-fd-GTi4-Ica-Jc-unsplash.jpg",
+      "title": "The Art of Computer Programming",
+      "author": "Donald Knuth",
+      "author_img": "https://i.ibb.co.com/LNnqHGJ/young-teacher-trying-write-notes-class.jpg",
+      "posted_date": "2024-09-15",
+      "reading_time": 25,
+      "hashtags": ["#Algorithms", "#Programming", "#ComputerScience"]
+    },
+    {
+      "id": 4,
+      "cover": "https://i.ibb.co.com/4mqH2r0/rahul-mishra-glmee-U0zabw-unsplash.jpg",
+      "title": "Design Patterns: Elements of Reusable Object-Oriented Software",
+      "author": "Erich Gamma",
+      "author_img": "https://i.ibb.co.com/LNnqHGJ/young-teacher-trying-write-notes-class.jpg",
+      "posted_date": "2024-09-05",
+      "reading_time": 30,
+      "hashtags": ["#DesignPatterns", "#Software", "#Development"]
+    },
+    {
+      "id": 5,
+      "cover": "https://i.ibb.co.com/Pc7MKj6/abu-saeid-fd-GTi4-Ica-Jc-unsplash.jpg",
+      "title": "Introduction to the Theory of Computation",
+      "author": "Michael Sipser",
+      "author_img": "https://i.ibb.co.com/LNnqHGJ/young-teacher-trying-write-notes-class.jpg",
+      "posted_date": "2024-08-30",
+      "reading_time": 22,
+      "hashtags": ["#Computation", "#Theory", "#Algorithms"]
+    }
+  ]
+  
